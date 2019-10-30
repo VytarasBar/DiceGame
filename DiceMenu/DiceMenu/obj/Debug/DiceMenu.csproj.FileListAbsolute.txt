@@ -1,0 +1,7 @@
+C:\Users\joparasata\source\repos\DiceMenu\DiceMenu\bin\Debug\DiceMenu.exe.config
+C:\Users\joparasata\source\repos\DiceMenu\DiceMenu\bin\Debug\DiceMenu.exe
+C:\Users\joparasata\source\repos\DiceMenu\DiceMenu\bin\Debug\DiceMenu.pdb
+C:\Users\joparasata\source\repos\DiceMenu\DiceMenu\obj\Debug\DiceMenu.csprojAssemblyReference.cache
+C:\Users\joparasata\source\repos\DiceMenu\DiceMenu\obj\Debug\DiceMenu.csproj.CoreCompileInputs.cache
+C:\Users\joparasata\source\repos\DiceMenu\DiceMenu\obj\Debug\DiceMenu.exe
+C:\Users\joparasata\source\repos\DiceMenu\DiceMenu\obj\Debug\DiceMenu.pdb
